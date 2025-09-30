@@ -1,2 +1,3 @@
-.env
+.env.sandbox
+.env.prod
 __pycache__/
