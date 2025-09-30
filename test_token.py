@@ -3,7 +3,6 @@ import requests
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 
-# Load .env values
 
 load_dotenv()
 

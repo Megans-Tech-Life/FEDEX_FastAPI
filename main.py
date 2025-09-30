@@ -3,7 +3,6 @@ import requests
 import os
 from dotenv import load_dotenv
 
-# Load environment variables from .env file
 load_dotenv()
 
 FEDEX_KEY = os.getenv("FEDEX_KEY")
